@@ -1,26 +1,26 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Andrzej Andrzejczuk
+  name: Andrzej Andrzejczuk
+  subtitle: Prezes
+  img: Andrzej.jpg
+  thumbnail: Andrzej.jpg
+  alt: Picture of Andrzej
+  topic: .Net
+  description: Microsoft Student Partner, .Net Developer w Ceneo
 
-- title: Name
-  name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Krystian Kolad
+  name: Krystian Kolad
+  subtitle: Wice prezes
+  img: Krystian.jpg
+  thumbnail: Krystian.jpg
+  alt: Picture of Krystian
+  topic: .Net
+  description: Junior .Net Developer w Ceneo
 
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Szymon Kuras
+  name: Szymon Kuras
+  subtitle: Wice prezes
+  img: Szymon.jpg
+  thumbnail: Szymon.jpg
+  alt: Picture of Szymon
+  topic: .Net
+  description: Junior .Net Developer w Ceneo
