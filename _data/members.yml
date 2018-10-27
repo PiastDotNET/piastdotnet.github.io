@@ -4,8 +4,8 @@
   img: Andrzej.jpg
   thumbnail: Andrzej.jpg
   alt: Picture of Andrzej
-  topic: .Net
-  description: Microsoft Student Partner, .Net Developer w Ceneo
+  url: https://github.com/andrzejczuk
+  description: Microsoft Student Partner <br/> .Net Developer
 
 - title: Krystian Kolad
   name: Krystian Kolad
@@ -13,8 +13,8 @@
   img: Krystian.jpg
   thumbnail: Krystian.jpg
   alt: Picture of Krystian
-  topic: .Net
-  description: Junior .Net Developer w Ceneo
+  url: https://krystiankolad.github.io/
+  description: Junior .Net Developer
 
 - title: Szymon Kuras
   name: Szymon Kuras
@@ -22,5 +22,5 @@
   img: Szymon.jpg
   thumbnail: Szymon.jpg
   alt: Picture of Szymon
-  topic: .Net
-  description: Junior .Net Developer w Ceneo
+  url: https://github.com/szkuras
+  description: Junior .Net Developer

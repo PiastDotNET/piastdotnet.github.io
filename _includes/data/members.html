@@ -10,7 +10,7 @@
             <div class="row">
             {% for member in site.data.members %}
                 <div class="col-md-4 col-sm-6 members-item">
-                    <a href="#{{ member.name }}" class="members-link" data-toggle="modal">
+                    <a href="{{ member.url }}" class="members-link" data-toggle="modal">
                         <div class="members-hover">
                             <div class="members-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
@@ -21,6 +21,7 @@
                     <div class="members-caption">
                         <h4>{{ member.title }}</h4>
                         <p class="text-muted">{{ member.subtitle }}</p>
+                        {{ member.description }}
                     </div>
                 </div>
             {% endfor %}
