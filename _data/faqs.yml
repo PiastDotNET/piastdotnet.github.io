@@ -1,14 +1,11 @@
-- question: Question 1
-  answer: Answer to Question 1
+- question: Ile zajęc jest w semestrze?
+  answer: W jednym semestrze wychodzi około 10 zajęc.
 
-- question: Question 2
-  answer: Answer to Question 2
+- question: Gdzie odbywają się zajęcia?
+  answer: W obecnym semestrze zajęcia odbywają się w budynku D-1 w sali 30 na Politechnice Wrocławskiej.
 
-- question: Question 3
-  answer: Answer to Question 3
+- question: Czy będą zadania domowe?
+  answer: Na wykładach raczej nie, w następnym semestrze, na warsztatach, bardzo możliwe.
 
-- question: Question 4
-  answer: Answer to Question 4
-
-- question: Question 5
-  answer: Answer to Question 5
+- question: Jaka jest cena kursu?
+  answer: Wykłady oraz warsztaty są w pełni darmowe, jednak na warsztaty będą organizowane zapisy.

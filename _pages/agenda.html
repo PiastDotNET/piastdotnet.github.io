@@ -23,7 +23,7 @@ published: true
 
             {% for agenda in site.data.agendas %}
                 <tr>
-                    <td>{{ agenda.time }}</td>
+                    <td>{{ agenda.time }} <br/> {{ agenda.place }}</td>
                     <td>{{ agenda.info }}</td>
                 </tr> 
             {% endfor %}
