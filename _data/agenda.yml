@@ -1,30 +1,30 @@
 - time: 08.11.2018 19:00-20:30
   place: D-1 sala 30
-  info: "<u>Wstęp, Azure DevOps</u><br><b>Unknown</b>"
+  info: "<u>Wstęp, Azure DevOps</u><br><b>Andrzej Andrzejczuk</b>"
 
 - time: 15.11.2018 19:00-20:30
   place: D-1 sala 30
-  info: "<u>Podstawy C#, częsc 1</u><br><b>Unknown</b>"
+  info: "<u>Podstawy C#, częsc 1</u><br><b>Szymon Kuras</b>"
 
 - time: 22.11.2018 19:00-20:30
   place: D-1 sala 30
-  info: "<u>Podstawy C#, częsc 2</u><br><b>Unknown</b>"
+  info: "<u>Podstawy C#, częsc 2</u><br><b>Szymon Kuras</b>"
 
 - time: 29.11.2018 19:00-20:30
   place: D-1 sala 30
-  info: "<u>Zaawansowane elementy języka C#</u><br><b>Unknown</b>"
+  info: "<u>Zaawansowane elementy języka C#</u><br><b>Szymon Kuras</b>"
 
 - time: 06.12.2018 19:00-20:30
   place: D-1 sala 30
-  info: "<u>Wzorce projektowe</u><br><b>Unknown</b>"
+  info: "<u>Wzorce projektowe</u><br><b>Krystian Kolad</b>"
 
 - time: 13.12.2018 19:00-20:30
   place: D-1 sala 30
-  info: "<u>Entity Framework</u><br><b>Unknown</b>"
+  info: "<u>Entity Framework</u><br><b>Andrzej Andrzejczuk</b>"
 
 - time: 10.01.2019 19:00-20:30
   place: D-1 sala 30
-  info: "<u>Testowanie aplikacji</u><br><b>Unknown</b>"
+  info: "<u>Testowanie aplikacji</u><br><b>Krystian Kolad</b>"
 
 - time: 17.01.2019 19:00-20:30
   place: D-1 sala 30
@@ -32,4 +32,4 @@
 
 - time: 24.01.2019 19:00-20:30
   place: D-1 sala 30
-  info: "<u>Azure</u><br><b>Unknown</b>"
+  info: "<u>Azure</u><br><b>Andrzej Andrzejczuk</b>"
